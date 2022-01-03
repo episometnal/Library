@@ -1,0 +1,18 @@
+0763758272,A Laboratory Course for Programming with Java,Nell Dale,T
+1887902996,Python Programming: An Introduction to Computer Science,John Zelle,T
+1423901126,Guide to Programming with Python,Michael Dawson,F
+0735710902,Python Web Programming,Steve Holden,F
+089134330X,Getting Started in Computer Graphics,Gary Olsen,F
+0935382011,Principles of Artificial Intelligence,Nils J. Nilsson,F
+1594634491,Matrix,Lauren Groff,T
+0373221053,Free Fall,Jasmine Cresswell,F
+0440117143,Danger in Paradise,Kit Daley,F
+0373162243,Sweet Anticipation,Kathy Clark,F
+0394588320,Harlot's Ghost: A novel of CIA,Norman Mailer,F
+0451451155,Tigana,Guy Gavriel Kay,T
+1250172640,Dragman,Steven Appleby,F
+0385514239,Origin,Dan Brown,T
+0143111396,The Book of Longings,Sue Monk Kidd,F
+0201060353,Computer Algorithms: Introduction to Design and Analysis,Sara Baase,T
+0385545134,Harlem Shuffle,Colson Whitehead,F
+013284737X,Data Structures and Algorithm Analysis in C++,Mark Weiss,T
